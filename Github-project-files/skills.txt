@@ -1,0 +1,6 @@
+Skills:
+Python
+C
+MySQL
+Git and GitHub
+Portfolio Development
