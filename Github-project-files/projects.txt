@@ -2,3 +2,4 @@ Projects:
 NER SmartRoute
 Smart Automated Table Lamp
 Portfolio Website
+Current focus: Artificial Intelligence and Data Science
